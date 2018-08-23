@@ -2,7 +2,7 @@
 	"name": "od-emojis",
 	"version": "1.0.0",
 	"description": "emoji",
-	"main": "bundles/ng2-emojis.umd.min.js",
+	"main": "bundles/od-emojis.umd.min.js",
 	"module": "index.js",
 	"typings": "index.d.ts",
 	"keywords": [

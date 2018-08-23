@@ -1,7 +1,7 @@
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('@angular/common')) :
 	typeof define === 'function' && define.amd ? define(['exports', '@angular/core', '@angular/common'], factory) :
-	(factory((global['ng2-emojis'] = global['ng2-emojis'] || {}),global.ng.core,global.ng.common));
+	(factory((global['od-emojis'] = global['od-emojis'] || {}),global.ng.core,global.ng.common));
 }(this, (function (exports,_angular_core,_angular_common) { 'use strict';
 
 var EmojiInput = (function () {
