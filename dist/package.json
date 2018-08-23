@@ -1,7 +1,7 @@
 {
-	"name": "ng2-emojis",
+	"name": "od-emojis",
 	"version": "1.0.0",
-	"description": "Wot!",
+	"description": "emoji",
 	"main": "bundles/ng2-emojis.umd.min.js",
 	"module": "index.js",
 	"typings": "index.d.ts",
@@ -11,7 +11,7 @@
 		"angular 2"
 	],
 	"author": {
-		"name": "",
+		"name": "od",
 		"email": ""
 	},
 	"license": "",
